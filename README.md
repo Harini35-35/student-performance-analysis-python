@@ -4,6 +4,9 @@
 ## 📌 Project Overview
 
 This project was completed as part of my Data Science/Data Analysis with Python Internship at Sumerix Global.
+
+This project demonstrates fundamental Python-based data analysis skills and serves as the first task completed during my internship at Sumerix Global.
+
 The project demonstrates a complete data analysis workflow including:
 
 - Data Loading
