@@ -1,9 +1,9 @@
 # 📊 Student Performance Analysis using Python
+# Internship Project
 
 ## 📌 Project Overview
 
-This project analyzes the Student Performance dataset using Python.
-
+This project was completed as part of my Data Science/Data Analysis with Python Internship at Sumerix Global.
 The project demonstrates a complete data analysis workflow including:
 
 - Data Loading
