@@ -26,11 +26,6 @@ The project demonstrates a complete data analysis workflow including:
 
 ---
 
-## 📂 Dataset
-
-Student Performance Dataset
-
----
 
 ## 📊 Analysis Performed
 
